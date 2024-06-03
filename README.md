@@ -1,4 +1,4 @@
-# django-watchlog
+# watchlog-python
 
 A Python client for [watchlog](https://watchlog.org/) server.
 
