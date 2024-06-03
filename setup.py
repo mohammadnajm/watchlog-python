@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django-watchlog',
+    name='watchlog-python',
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
@@ -9,12 +9,12 @@ setup(
     ],
     include_package_data=True,
     license='MIT License',
-    description='A simple Django package for logging metrics.',
+    description='A simple Python package for logging metrics.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/django-watchlog',
-    author='Your Name',
-    author_email='your.email@example.com',
+    url='https://github.com/mohammadnajm/watchlog-python',
+    author='mohammad',
+    author_email='mohammadnajm75@gmail.com',
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
