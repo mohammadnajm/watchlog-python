@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: watchlog-python
-Version: 0.1.1
+Version: 0.1.2
 Summary: A simple Python package for logging metrics.
 Home-page: https://github.com/mohammadnajm/watchlog-python
 Author: mohammad
@@ -20,7 +20,7 @@ Classifier: Programming Language :: Python :: 3.10
 Description-Content-Type: text/markdown
 Requires-Dist: requests
 
-# django-watchlog
+# watchlog-python
 
 A Python client for [watchlog](https://watchlog.org/) server.
 
